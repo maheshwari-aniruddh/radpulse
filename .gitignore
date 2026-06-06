@@ -1,0 +1,9 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDEs and OS
+.idea/
+.DS_Store
+*.swp
